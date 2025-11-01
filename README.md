@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Vidyashree Dattawade
+# Hi there 👋, I'm Vidyashri Mahadev Dattawade
 
 ## About Me
 - 💻 Aspiring Web Developer | Blockchain Enthusiast  
