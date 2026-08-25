@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Vidyashri Mahadev Dattawade
+# Hi there 👋, I'm Vidyashri M Dattawade
 
 💻 **MERN Stack Developer | Aspiring Full-Stack Developer**
 🚀 Passionate about building responsive, user-friendly web applications
