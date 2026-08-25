@@ -2,7 +2,8 @@
 
 💻 **MERN Stack Developer | Aspiring Full-Stack Developer**
 🚀 Passionate about building responsive, user-friendly web applications
-🛠️ **Skills:** HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, REST APIs
+
+## Skills: HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, REST APIs
 
 ## 🚀 Projects
 
