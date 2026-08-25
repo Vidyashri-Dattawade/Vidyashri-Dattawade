@@ -1,13 +1,13 @@
-# Hi there 👋, I'm Vidyashri Mahadev Dattawade
+## Hi there 👋, I'm Vidyashri Mahadev Dattawade
 
-## About Me
-- 💻 Aspiring Web Developer | Blockchain Enthusiast  
-- 🌱 Currently working on Mobile Banking using Blockchain  
-- 🎓 Interned as Web Developer at Elewayte  
-- 🛠 Skills: HTML, CSS, JavaScript, React, Node.js, Java, C  
-- 📫 How to reach me:vidyashreedattawade4@gmail.com  
+💻 MERN Stack Developer | Aspiring Full-Stack Developer
+🚀 Passionate about building responsive, user-friendly web applications
+🛠️ Skills: HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, REST APIs
 
-## Projects & Interests
-- 🚀 Food Delivery & Travel Booking Websites  
-- 🔗 Blockchain-based Secure Mobile Banking  
-- 🌐 Exploring modern web technologies and development best practices
+🚀 Projects
+* 🍔 Food Delivery Website
+* 🔐 Secure Mobile Banking Application
+* 👨‍💼 Employee Management System
+
+📫 Reach me: [vidyashreedattawade4@gmail.com](mailto:vidyashreedattawade4@gmail.com)
+
