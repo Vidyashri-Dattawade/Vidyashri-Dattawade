@@ -25,7 +25,7 @@ I enjoy working across the full stack — from crafting clean React UIs to desig
 - 🍔 **[Food Delivery Website](https://github.com/Vidyashri-Dattawade/Food-Delivery-Website)** — Responsive food ordering app with menu browsing, cart management, and category filtering. *(React, JavaScript, HTML5, CSS3)*
 - 🔐 **Secure M-Banking Application** — Mobile banking system using blockchain concepts, SHA-256 hashing, and AES-256 encryption for secure transactions. *(MongoDB, Express.js, React.js, Node.js)*
 - 👨‍💼 **[Employee Management System](https://github.com/Vidyashri-Dattawade/EMP_MANAGEMENT)** — Web app to manage employee records and workflows. *(MERN Stack)*
-- 🧮 **[Calculator](https://github.com/Vidyashri-Dattawade/Calulator)** — A simple calculator built with vanilla JavaScript.
+- 🧮 **[Calculator](https://github.com/Vidyashri-Dattawade/Calulator)** — A simple calculator built with JavaScript.
 - 🔑 **[Password Generator](https://github.com/Vidyashri-Dattawade/Password-Generator)** — Random password generator built with JavaScript.
 
 ---
