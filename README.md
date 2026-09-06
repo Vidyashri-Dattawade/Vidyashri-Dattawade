@@ -27,7 +27,10 @@ I enjoy working across the full stack — from crafting clean React UIs to desig
 - 📚 **[Book Finder Website](https://book-finder-website-delta.vercel.app)** — Book discovery platform with search and filtering, built using a public books API.(React)
   &nbsp;&nbsp;🔗 [Live Demo](https://book-finder-website-delta.vercel.app)
 - 🔐 **Secure M-Banking Application** — Mobile banking system using blockchain concepts, SHA-256 hashing, and AES-256 encryption for secure transactions. *(MongoDB, Express.js, React.js, Node.js)*
+
 - 👨‍💼 **[Employee Management System](https://github.com/Vidyashri-Dattawade/EMP_MANAGEMENT)** — Streamlines employee data management, replacing manual record-keeping with a simple digital system. *(MERN Stack)*
+  &nbsp;&nbsp;🔗 [Live Demo](https://emp-management-p-git-4df41d-dattawadevidyashree8-9209s-projects.vercel.app)
+
 - 🧮 **[Calculator](https://github.com/Vidyashri-Dattawade/Calulator)** — A simple calculator built with JavaScript.
 - 🔑 **[Password Generator](https://github.com/Vidyashri-Dattawade/Password-Generator)** — Random password generator built with JavaScript.
 
