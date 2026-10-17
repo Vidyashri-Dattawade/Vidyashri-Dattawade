@@ -34,7 +34,7 @@ I enjoy working across the full stack — from crafting clean React UIs to desig
 - 🧮 **[Calculator](https://github.com/Vidyashri-Dattawade/Calulator)** — A simple calculator built with JavaScript.
 - 🔑 **[Password Generator](https://github.com/Vidyashri-Dattawade/Password-Generator)** — Random password generator built with JavaScript.
 
--- 🐦 **[Brand Tweet Generator](https://github.com/Vidyashri-Dattawade/brand-tweet-generator)** — AI tool that works out a brand's voice and writes 10 on-brand tweets with a four-point voice summary. *(React, Vite, Tailwind CSS, Node.js, Express, Gemini API)*
+- 🐦 **[Brand Tweet Generator](https://github.com/Vidyashri-Dattawade/brand-tweet-generator)** — AI tool that works out a brand's voice and writes 10 on-brand tweets with a four-point voice summary. *(React, Vite, Tailwind CSS, Node.js, Express, Gemini API)*
   &nbsp;&nbsp;🔗 [Live Demo](https://brand-tweet-generator-chi.vercel.app)
 
 
