@@ -29,12 +29,13 @@ I enjoy working across the full stack — from crafting clean React UIs to desig
 - 🔐 **Secure M-Banking Application** — Mobile banking system using blockchain concepts, SHA-256 hashing, and AES-256 encryption for secure transactions. *(MongoDB, Express.js, React.js, Node.js)*
 
 - 👨‍💼 **[Employee Management System](https://github.com/Vidyashri-Dattawade/EMP_MANAGEMENT)** — Streamlines employee data management, replacing manual record-keeping with a simple digital system. *(MERN Stack)*
-  &nbsp;&nbsp;🔗 [Live Demo](https://emp-management-p-git-4df41d-dattawadevidyashree8-9209s-projects.vercel.app)
+      &nbsp;&nbsp;🔗 [Live Demo](https://emp-management-pq7k-kappa.vercel.app)
 
 - 🧮 **[Calculator](https://github.com/Vidyashri-Dattawade/Calulator)** — A simple calculator built with JavaScript.
 - 🔑 **[Password Generator](https://github.com/Vidyashri-Dattawade/Password-Generator)** — Random password generator built with JavaScript.
 
----
+-- 🐦 **[Brand Tweet Generator](https://github.com/Vidyashri-Dattawade/brand-tweet-generator)** — AI tool that works out a brand's voice and writes 10 on-brand tweets with a four-point voice summary. *(React, Vite, Tailwind CSS, Node.js, Express, Gemini API)*
+  &nbsp;&nbsp;🔗 [Live Demo](https://brand-tweet-generator-chi.vercel.app)
 
 
 
