@@ -2,7 +2,7 @@
 
 💻 **MERN Stack Developer** &nbsp;|&nbsp; 🎓 Computer Science Graduate &nbsp;|&nbsp; 🚀 Passionate about building responsive, user-friendly web applications.
 
-I enjoy working across the full stack — from crafting clean React UIs to designing REST APIs and managing databases. I have hands-on experience building full-stack applications and am continuously improving my development skills.
+I’m passionate about building modern web applications and turning ideas into practical solutions. I enjoy working with React, Node.js, Express.js, and databases while continuously expanding my technical skills.
 
 ---
 
