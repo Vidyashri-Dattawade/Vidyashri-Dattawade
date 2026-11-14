@@ -2,7 +2,7 @@
 
 💻 **MERN Stack Developer** &nbsp;|&nbsp; 🎓 Computer Science Graduate &nbsp;|&nbsp; 🚀 Passionate about building responsive, user-friendly web applications.
 
-I enjoy working across the full stack — from crafting clean React UIs to designing REST APIs and modeling data in MongoDB. Currently sharpening my skills as a MERN Full-Stack Developer Intern at Dhee Coding Lab.
+I enjoy working across the full stack — from crafting clean React UIs to designing REST APIs and managing databases. I have hands-on experience building full-stack applications and am continuously improving my development skills.
 
 ---
 
