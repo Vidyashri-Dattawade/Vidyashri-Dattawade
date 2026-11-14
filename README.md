@@ -36,6 +36,8 @@ I enjoy working across the full stack — from crafting clean React UIs to desig
 
 - 🐦 **[Brand Tweet Generator](https://github.com/Vidyashri-Dattawade/brand-tweet-generator)** — AI tool that works out a brand's voice and writes 10 on-brand tweets with a four-point voice summary. *(React, Vite, Tailwind CSS, Node.js, Express, Gemini API)*
   &nbsp;&nbsp;🔗 [Live Demo](https://brand-tweet-generator-chi.vercel.app)
+  
+- 🩸 **[Sweety – Blood Glucose Tracker](https://github.com/Vidyashri-Dattawade/Blood-Glucose-Tracker)** — A full-stack application that helps users record daily blood glucose readings, manage reading records, and view daily and monthly reports. Includes authentication, input validation, and user-specific data management. *(React, Node.js, Express.js, PostgreSQL)*
 
 
 
